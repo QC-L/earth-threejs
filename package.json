@@ -1,0 +1,22 @@
+{
+  "name": "earth-threejs",
+  "version": "1.0.0",
+  "description": "模仿[QQ地球探索者-QQX计划](https://wa.qq.com/xplan/earth/index.html?_wv=5&_wwv=4&adtag=wx&from=singlemessage&isappinstalled=0)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QC-L/earth-threejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QC-L/earth-threejs/issues"
+  },
+  "homepage": "https://github.com/QC-L/earth-threejs#readme",
+  "dependencies": {
+    "three": "^0.86.0"
+  }
+}
